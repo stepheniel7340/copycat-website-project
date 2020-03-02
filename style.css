@@ -1,0 +1,94 @@
+
+body{
+    background:linear-gradient(100deg, #0078b9, #80379b);
+    /*font-family: "museo-sans", "Helvetica Neue", "Arial", sans-serif;*/
+    background-attachment: fixed;
+}
+
+.logo {
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.square{
+    background:rgb(220,220,220,0.1);
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px; 
+}
+
+.welcome{
+    color: white;
+    font-family:Helvetica Neue;
+    font-size: 13px;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    
+}
+.sign-inbox{
+    background:rgb(220,250,220,0.2);
+    width: 80px;
+    height: 40px;
+    position: relative;
+    bottom: 5px;
+    margin-left: 20px;
+    margin-right: auto;
+    border-radius: 5px; 
+}
+
+.sign-in{
+    color: white;
+    font-family:arial ;
+    font-size: 15px;
+    position: relative;
+    top: 12px;
+    left: 17px;
+}
+
+.register{
+    color: white;
+    font-family:Helvetica ;
+    width: 210px;
+    font-size: 13px;
+    position: relative;
+    top: 30px;
+    left: -75px;
+}
+
+.instructions{
+    color: white;
+    font-family:Helvetica ;
+    width: 220px;
+    font-size: 13px;
+    position: relative;
+    top: 40px;
+    left: -75px;
+
+}
+
+.forgot{
+    color: white;
+    font-family:Helvetica ;
+    width: 220px;
+    font-size: 13px;
+    position: relative;
+    top: 30px;
+    left: -20px;
+}
+
+.case{
+    color: white;
+    font-family:Helvetica ;
+    font-size: 13px;
+    position: relative;
+    top: 70px;
+    left: -20px;
+}
